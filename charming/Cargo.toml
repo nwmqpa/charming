@@ -12,7 +12,7 @@ license = "MIT/Apache-2.0"
 readme = "../README.md"
 
 [dependencies]
-deno_core = { version = "0.195", optional = true }
+deno_core = { version = "0.197", optional = true }
 handlebars = "4.3"
 image = { version = "0.24", optional = true }
 resvg = { version = "0.35", optional = true }
